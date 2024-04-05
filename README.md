@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+My name is Jakub and I'm currently studying Informatics at Gdańsk University of Technology. More info soon...
 <!--
 **ModesevenTM/ModesevenTM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
